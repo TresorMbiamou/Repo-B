@@ -1,2 +1,2 @@
 # Repo-B
-this code will deployed all the resources in the AWS account  
+This code will deployed and configured all the resources in the AWS account  
